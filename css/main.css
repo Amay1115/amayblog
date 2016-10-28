@@ -159,7 +159,7 @@ h2.resp-accordion:hover{background: #282828;}
 .bottom-p .panel-group .panel{border-radius:0px;}
 .bottom-p .panel-heading{border-top-right-radius: 0px; border-top-left-radius: 0px;}
 ul.about li span.value{width: 220px; text-align: left; float: right;}
-ul.about li{margin: 0; color: #717171; display: block; font-size: 13px; border-bottom: 1px solid #e6e6e6;}
+ul.about li{margin:5px 0px; color: #717171; display: block; font-size: 13px; border-bottom: 1px solid #e6e6e6;}
 ul.about li:last-child{border-bottom: none;}
 ul.about{margin-bottom: 30px;}
 #profile .bottom-p{margin-top: 20px;}
