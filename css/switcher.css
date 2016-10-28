@@ -2,7 +2,7 @@
 /* Styles Switcher
 ====================================================================== */
 #custumize-style{background-color:#505656;width:270px;position:fixed;top:10px;z-index:9999;left:0px;border-radius:0 0 3px 0;}
-#custumize-style div{padding:0px 8px;padding-bottom:5px;}
+#custumize-style div{padding:0px 8px;padding-bottom:0.3rem;}
 #custumize-style h3{color:#fff;font-size:12px;text-transform:capitalize;padding-left:25px;font-size:13px;font-weight:bold;margin:0;}
 #custumize-style h2{font-size:23px;color:#fff;margin-top:0px;padding-bottom:12px;padding-left:30px;padding-top:11px;background:#727777;text-transform:capitalize;font-weight:400;}
 #custumize-style h2 a{display:block;height:58px;position:absolute;right:-39px;top:0;width:40px;border-radius:0 3px 3px 0;padding-right:5px;padding-bottom:5px;padding-top:5px;}
