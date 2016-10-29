@@ -292,7 +292,7 @@ jQuery(document).ready(function($) {
 
     var map;
     function initialize() {
-        map = new GMaps({
+        /*map = new GMaps({
             div: '#map',
             lat: -37.817917,
             lng: 144.965065,
@@ -307,7 +307,7 @@ jQuery(document).ready(function($) {
             infoWindow: {
                 content: '<p>Melbourne Victoria, 300, Australia</p>'
             }
-        });
+        });*/
     }
 
     /* ---------------------------------------------------------------------- */
